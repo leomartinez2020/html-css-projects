@@ -1,0 +1,60 @@
+/* These selectors define the properties of headers, paragraphs, image and unordered list */
+
+body {
+	margin: 29px 0 0 0;
+}
+
+h1 {
+	padding: 5px 0 0 0;
+}
+
+h2 {
+	font: bold 25px "Lucida Sans Unicode", sans-serif;
+	margin: 0 0 10px 0;
+}
+
+img {
+	margin: 7px 0 0 0;
+}
+
+p {
+	font: 16px/200% "Lucida Sans Unicode", sans-serif;
+}
+
+ul {
+	margin: 36px 0 0 30px;
+	font: 16px "Lucida Sans Unicode", sans-serif;
+}
+
+ul li {
+	margin: 0 0 12px 0;
+}
+
+/* The next selector defines the font of the main title */
+
+.big-font {
+	font: 50px "Lucida Sans Unicode", sans-serif;
+}
+
+/* The next selectors define the margins and the box for the section on the left: Main Features */
+
+.margin-features {
+	margin: 14px 0 5px 30px;
+}
+
+.square {
+	border: 1px solid #ccc;
+	height: 225px;
+	margin: 38px 0 0 0;
+	max-width: 408px;
+}
+
+/* These define the colors of the headers and the text (paragraphs and unordered list) */
+
+.mug-color {
+	color: #f07c17;
+}
+
+.text-color {
+	color: #666;
+}
