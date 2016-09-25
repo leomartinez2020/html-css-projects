@@ -1,0 +1,66 @@
+/*body {
+	font-family: "Lucida Sans Unicode", sans-serif;
+}
+*/
+body {
+    margin: 7px 0 0 0;
+}
+
+h1 {
+	padding: 5px 0 0 0;
+}
+
+h2 {
+	font: 25px "Lucida Sans Unicode", sans-serif;
+}
+
+p {
+	font: 16px/200% "Lucida Sans Unicode", sans-serif;
+}
+
+ul {
+	margin: 28px 0 0 25px;
+    font: 16px "Lucida Sans Unicode", sans-serif;
+}
+
+ul li {
+	margin: 0 0 6px 0;
+}
+
+.big-font {
+	font: 50px "Lucida Sans Unicode", sans-serif;
+}
+
+.margin-up {
+	margin: 0 0 0 0;
+}
+
+.margin-features {
+	margin: 14px 0 0 30px;
+}
+
+.mug-color {
+	color: #f07c17;
+}
+
+.text-color {
+	color: #666;
+}
+
+/*
+   .paragraph-size {
+	font-size: 16px;
+} 
+    */
+
+
+.square {
+	border: 1px solid #ccc;
+	height: 225px;
+	margin: 38px 0 0 0;
+	max-width: 408px;
+}
+
+.bold-text {
+	font-weight: 700;
+}
